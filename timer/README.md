@@ -1,6 +1,7 @@
 # timer
 
-A new Flutter project.
+flutter_timer Paketini denmek için yaptığım proje
+.
 
 ## Getting Started
 
